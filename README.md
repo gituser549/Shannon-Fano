@@ -1,9 +1,9 @@
 # Shannon-Fano
 
 This repository contains my implementation of Shannon-Fano coding algorithms. 
-All data structures and algirithms have been made by me, it was one of the goals when creating this project. STL and its features haven't been used at all.
+All data structures and algirithms have been implemented by me, it was one of the goals when creating this project. STL and its features haven't been used at all.
 
-This is project is a console application which makes full-cycle (coding and decoding) text files. Works with .txt and .bin formats. 
+This is project is a console application which makes full-cycle (coding and decoding) coding text files. Works with .txt and .bin formats. 
 
 **You can build this project using this command:** `make` when you are in the same directory as the project.
 
